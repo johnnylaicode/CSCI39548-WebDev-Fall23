@@ -11,6 +11,9 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 **Full-Stack Web Development**
 - Intro to full-stack web development ([slides](https://drive.google.com/file/d/11MsdIeAxX2G4SY5RvAYuN7d26XPcegGm/view?usp=share_link))
 
+**Software Development Life Cycle**
+- Intro to Software Development Life Cycle (SDLC) ([slides](https://drive.google.com/file/d/1IKj95khbtOj4X4OoLS8Pfzle9K0VQXrH/view?usp=drive_link))
+
 **Git and GitHub**
 - Intro to Git and GitHub ([slides](https://drive.google.com/file/d/17muOlcC-pgglpXUiaJAL47e5q688Echl/view?usp=sharing))
 - Guide on How to Set Up SSH Keys for Git and GitHub ([document](https://drive.google.com/file/d/1EdDNwJFnV0igch_gbW6KlGduXkzHggkp/view?usp=sharing))
