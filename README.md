@@ -31,10 +31,10 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 - [Deploy Repository to GitHub Pages](https://docs.github.com/en/pages/quickstart)
 
 **Demo**
-- Create a simple website GitHub repository, implement Git version control, and deploy repository to GitHub Pages ("demo-app")
+- Create a simple website GitHub repository, implement Git version control, and deploy repository to GitHub Pages (creating "demo-app")
 - Set up SSH keys for Git and GitHub
 - Work with Git feature branch workflow ([feature-website](https://github.com/johnnylaicode/feature-website))
-- Set up team repository on GitHub ("team-app")
+- Set up team repository on GitHub (using "team-app")
 
 **Resources** 
 - [What Is SDLC (Software Development Lifecycle)?](https://aws.amazon.com/what-is/sdlc/)
@@ -58,7 +58,7 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 - **[Starter code for Assignment 1](https://github.com/johnnylaicode/zoo-starter-code)**
 
 **Demo**
-- Demo starter website for Assignment 1 ([assignment1](https://github.com/johnnylaicode/assignment1))
+- Create Assignment 1 codebase using starter code (creating "assignment1-zoo")
 
 **JavaScript**
 - Intro to JavaScript ([slides](https://drive.google.com/file/d/19VHKOGt9xDHCmSFq-wNY49IDyapFcHaJ/view?usp=sharing))
