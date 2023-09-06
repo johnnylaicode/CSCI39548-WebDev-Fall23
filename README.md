@@ -15,8 +15,9 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 - Intro to Software Development Life Cycle (SDLC) ([slides](https://drive.google.com/file/d/1IKj95khbtOj4X4OoLS8Pfzle9K0VQXrH/view?usp=drive_link))
 
 **Git and GitHub**
-- Intro to Git and GitHub ([slides](https://drive.google.com/file/d/17muOlcC-pgglpXUiaJAL47e5q688Echl/view?usp=sharing))
+- Intro to Git and GitHub ([slides](https://drive.google.com/file/d/11wvaUWBXGFoQl-V_uS-yxoPnN1CFJtbv/view?usp=sharing))
 - Guide on How to Set Up SSH Keys for Git and GitHub ([document](https://drive.google.com/file/d/1EdDNwJFnV0igch_gbW6KlGduXkzHggkp/view?usp=sharing))
+- Intro to Git Feature Branch ([slides](https://drive.google.com/file/d/1tMWosM04K-UUp9lJr8AxBg_Z9b6YKtEO/view?usp=drive_link))
 - [Tutorial: Git Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
 - Description of Git Feature Branch Workflow Operation ([document](https://drive.google.com/file/d/1sZQmcPlp2M36dGEbWsbwsN2kJRd8tLp5/view?usp=sharing))
 - Guide on How to Set Up Team Repository on GitHub ([document](https://drive.google.com/file/d/1iPZqu7jrsxXRGlVfdaM0XxGtEg4lKkkt/view?usp=sharing))
@@ -30,9 +31,10 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 - [Deploy Repository to GitHub Pages](https://docs.github.com/en/pages/quickstart)
 
 **Demo**
-- Create a simple website GitHub repository, implement Git version control, 
- and deploy repository to GitHub Pages ([demo-website](https://github.com/johnnylaicode/demo-website))
-- Work with feature branch workflow ([feature-website](https://github.com/johnnylaicode/feature-website))
+- Create a simple website GitHub repository, implement Git version control, and deploy repository to GitHub Pages ("demo-app")
+- Set up SSH keys for Git and GitHub
+- Work with Git feature branch workflow ([feature-website](https://github.com/johnnylaicode/feature-website))
+- Set up team repository on GitHub ("team-app")
 
 **Resources** 
 - [What Is SDLC (Software Development Lifecycle)?](https://aws.amazon.com/what-is/sdlc/)
