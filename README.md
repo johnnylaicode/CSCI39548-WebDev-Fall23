@@ -93,6 +93,12 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 ## Class 4 (9/19, 9/21)
 ### *Reminder:* Assignment 1 - Zoo is due on Wednesday, 9/20, at 11:59 PM.
 
+**Document Object Model (DOM)**
+- Intro to DOM ([slides](https://drive.google.com/file/d/1qi8X5eiSyo_nATsHmSpNINta1ne6VmCy/view?usp=sharing))
+
+**Demo**
+- DOM examples ([dom-examples](https://github.com/johnnylaicode/dom-examples))
+
 **Intro to Assignment 2**
 - ### [Assignment 2 - Grid Maker](https://drive.google.com/file/d/1BXqyAALe9phxRUBBL1RB_d8DLc2MIod0/view?usp=sharing)
 - **[Starter code for Assignment 2](https://github.com/johnnylaicode/grid-maker-starter-code)**
@@ -100,16 +106,8 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 **Demo**
 - Grid Maker application
 
-**Document Object Model (DOM)**
-- Intro to DOM ([slides](https://drive.google.com/file/d/1qi8X5eiSyo_nATsHmSpNINta1ne6VmCy/view?usp=sharing))
-
-**Demo**
-- DOM examples ([dom-examples](https://github.com/johnnylaicode/dom-examples))
-
 **Supplemental Materials**
 - Additional reference on intro to DOM ([MDN: Intro to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction))
-
-**Work on Assignment 2 - JavaScript Methods**
 
 ----------
 ## Class 5 (9/26, 9/28)
