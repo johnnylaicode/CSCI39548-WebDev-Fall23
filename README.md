@@ -98,6 +98,7 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 
 **Demo**
 - DOM examples ([dom-examples](https://github.com/johnnylaicode/dom-examples))
+- Manipulate DOM in JavaScript ([DOM manipulation](https://gist.github.com/johnnylaicode/c8689ffee1f5fe516dec769d9bda1581))
 
 **Intro to Assignment 2**
 - ### [Assignment 2 - Grid Maker](https://drive.google.com/file/d/1BXqyAALe9phxRUBBL1RB_d8DLc2MIod0/view?usp=sharing)
@@ -106,20 +107,21 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 **Demo**
 - Grid Maker application
 
+**Work on Assignment 2 - Gride Maker**
+
 **Supplemental Materials**
 - Additional reference on intro to DOM ([MDN: Intro to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction))
-
-----------
-## Class 5 (9/26, 9/28)
-***Continue:*** **Document Object Model (DOM)**
-
-**Demo**
-- Manipulate DOM in JavaScript ([DOM manipulation](https://gist.github.com/johnnylaicode/c8689ffee1f5fe516dec769d9bda1581))
-
-**Supplemental Materials**
 - [Eloquent JavaScript Chapter 13: JavaScript and the Browser](http://eloquentjavascript.net/13_browser.html)
 - [Eloquent JavaScript Chapter 14: The Document Object Model](http://eloquentjavascript.net/14_dom.html)
 - [Eloquent JavaScript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
+
+----------
+## Class 5 (9/26, 9/28)
+**React**
+- [React Docs: Create a New React App](https://17.reactjs.org/docs/create-a-new-react-app.html)
+- React App Structure and Data Flow (*summary*)
+- [React Docs: Main Concepts of React (Sections 1-5)](https://17.reactjs.org/docs/hello-world.html)
+   - Sections: Hello World, Introducing JSX, Rendering Elements, Components and Props, State and Lifecycle
 
 **Watch for next class: required videos (watch all in the series)**
 - [Intro to React](https://www.youtube.com/watch?v=FRjlF74_EZk&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR)
@@ -130,7 +132,7 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 
 ### *Reminder:* Assignment 2 - Grid Maker is due on Wednesday, 10/11, at 11:59 PM.
 
-**React**
+***Continue:*** **React**
 - [React Docs: Create a New React App](https://17.reactjs.org/docs/create-a-new-react-app.html)
 - React App Structure and Data Flow (*summary*)
 - [React Docs: Main Concepts of React (Sections 1-5)](https://17.reactjs.org/docs/hello-world.html)
