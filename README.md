@@ -58,6 +58,7 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 - **[Starter code for Assignment 1](https://github.com/johnnylaicode/zoo-starter-code)**
 
 **Demo**
+- Assignment 1 starter application (starter code)
 - Create Assignment 1 codebase using starter code (creating "assignment1-zoo")
 
 **JavaScript**
@@ -106,6 +107,7 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 
 **Demo**
 - Grid Maker application
+- Assignment 2 starter application (starter code)
 
 **Work on Assignment 2 - Gride Maker**
 
@@ -122,6 +124,11 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 - React App Structure and Data Flow (*summary*)
 - [React Docs: Main Concepts of React (Sections 1-5)](https://17.reactjs.org/docs/hello-world.html)
    - Sections: Hello World, Introducing JSX, Rendering Elements, Components and Props, State and Lifecycle
+- Install Node.js and NPM: [Install via Download](https://nodejs.org/en/download/) or [Install via Package Manager](https://nodejs.org/en/download/package-manager/) 
+- NPM (Node Package Manager), NPX (Node Package Execute), NVM (Node.js Version Manager)
+
+**Demo**
+- A simple React application - Hello World
 
 **Watch for next class: required videos (watch all in the series)**
 - [Intro to React](https://www.youtube.com/watch?v=FRjlF74_EZk&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR)
@@ -133,15 +140,16 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 ### *Reminder:* Assignment 2 - Grid Maker is due on Wednesday, 10/11, at 11:59 PM.
 
 ***Continue:*** **React**
-- [React Docs: Create a New React App](https://17.reactjs.org/docs/create-a-new-react-app.html)
-- React App Structure and Data Flow (*summary*)
 - [React Docs: Main Concepts of React (Sections 1-5)](https://17.reactjs.org/docs/hello-world.html)
    - Sections: Hello World, Introducing JSX, Rendering Elements, Components and Props, State and Lifecycle
-- Install Node.js and NPM: [Install via Download](https://nodejs.org/en/download/) or [Install via Package Manager](https://nodejs.org/en/download/package-manager/) 
-- NPM (Node Package Manager), NPX (Node Package Execute), NVM (Node.js Version Manager)
+
+**React Components, Asynchronous Programming, and API**
+- [React Application Examples (Components 1-5): React components, async/await, API](https://github.com/johnnylaicode/react-examples)
+   - FolderComponent, TextAreaComponent, FormComponent, ApiDataComponent, SearchComponent
 
 **Demo**
-- A simple React application - Hello World
+- React application example codes (Components 1-5)
+   - FolderComponent, TextAreaComponent, FormComponent, ApiDataComponent, SearchComponent
 
 **Extra Practice**
 - [React tutorial: Intro to React (building a Tic-Tac-Toe game)](https://reactjs.org/tutorial/tutorial.html)
@@ -161,13 +169,9 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 - **[Starter code for Assignment 3](https://github.com/johnnylaicode/bank-of-react-starter-code)** (website deployed to GitHub Pages)
 - Assignment 3 - Bank of React Starter Code Overview (*summary*)
 
-**React, Asynchronous Programming, and API**
-- [React Application Examples (Components 1-5): React components, async/await, API](https://github.com/johnnylaicode/react-examples)
-   - FolderComponent, TextAreaComponent, FormComponent, ApiDataComponent, SearchComponent
-
 **Demo**
-- React application example codes (Components 1-5)
-   - FolderComponent, TextAreaComponent, FormComponent, ApiDataComponent, SearchComponent
+- Assignment 3 starter application (starter code)
+- Bank of React application
 
 **Web browser extensions used in class**
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
@@ -210,7 +214,7 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 - **[Server starter code for Final Project](https://github.com/johnnylaicode/server-starter-code)**
 
 **Demo**
-- Final Project starter application
+- Final Project starter application (starter code)
 
 **Redux**
 - Redux: Manage state in React applications using Redux (*summary*)
