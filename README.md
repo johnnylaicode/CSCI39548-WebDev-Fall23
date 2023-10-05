@@ -151,6 +151,10 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 - React application example codes (Components 1-5)
    - FolderComponent, TextAreaComponent, FormComponent, ApiDataComponent, SearchComponent
 
+**Web browser extensions used in class**
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+- [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
+
 **Extra Practice**
 - [React tutorial: Intro to React (building a Tic-Tac-Toe game)](https://reactjs.org/tutorial/tutorial.html)
 - [React tutorial: Getting Started with React](https://sabe.io/tutorials/getting-started-with-react)
@@ -172,10 +176,6 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 **Demo**
 - Assignment 3 starter application (starter code)
 - Bank of React application
-
-**Web browser extensions used in class**
-- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
-- [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
 
 **Supplemental Materials**
 - [React Docs: Main Concepts (Sections 6-12)](https://reactjs.org/docs/hello-world.html)
