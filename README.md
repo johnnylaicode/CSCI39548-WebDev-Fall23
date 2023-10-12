@@ -93,6 +93,7 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 ----------
 ## Class 4 (9/19, 9/21)
 ### *Reminder:* Assignment 1 - Zoo is due on Wednesday, 9/20, at 11:59 PM.
+<br/>
 
 **Document Object Model (DOM)**
 - Intro to DOM ([slides](https://drive.google.com/file/d/1qi8X5eiSyo_nATsHmSpNINta1ne6VmCy/view?usp=sharing))
@@ -138,6 +139,7 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 ### *Note:* Tuesday, 10/10 - NO CLASS. Classes follow Monday schedule.
 
 ### *Reminder:* Assignment 2 - Grid Maker is due on Wednesday, 10/11, at 11:59 PM.
+<br/>
 
 ***Continue:*** **React**
 - [React Docs: Main Concepts of React (Sections 1-5)](https://17.reactjs.org/docs/hello-world.html)
@@ -168,6 +170,10 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 
 ----------
 ## Class 7 (10/12, 10/17)
+**React Router**
+- Single-Page Application, Client-Side Routing, React Router (*summary*)
+- Intro to React Router ([slides](https://drive.google.com/file/d/1hgwPyZzvKDtftmdgSWdahXR4xGWCm42z/view?usp=sharing))
+
 **Intro to Assignment 3**
 - ### [Assignment 3 - Bank of React](https://gist.github.com/johnnylaicode/a2eb57d24080d36ea266aa58ce5044d4)
 - **[Starter code for Assignment 3](https://github.com/johnnylaicode/bank-of-react-starter-code)** (website deployed to GitHub Pages)
@@ -191,12 +197,19 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 
 ----------
 ## Class 8 (10/19, 10/24)
-**React Router**
-- Single-Page Application, Client-Side Routing, React Router (*summary*)
-- Intro to React Router ([slides](https://drive.google.com/file/d/1hgwPyZzvKDtftmdgSWdahXR4xGWCm42z/view?usp=sharing))
 
+**Redux**
+- Redux: Manage state in React applications using Redux (*summary*)
+- Intro to Redux ([slides](https://drive.google.com/file/d/1-29VywoNhkyx80Dx6rdRACZo8PaTvSKz/view?usp=sharing))
+- Intro to Thunk Middleware ([slides](https://drive.google.com/file/d/1DtR-CR7e_NOLr434MNZ44BlniYHFXTVo/view?usp=sharing))
+- Use Redux in "Ticking Clock" React application ([react-ticking-clock-app](https://github.com/johnnylaicode/react-ticking-clock-app) using Class Component and [react-redux-ticking-clock-app ](https://github.com/johnnylaicode/react-redux-ticking-clock-app) using React Redux)
+- [React Application Examples (Component 6): Redux and Thunk](https://github.com/johnnylaicode/react-examples)
 
-**Recommended materials for next class**
+**Demo**
+- Use Redux in "Ticking Clock" React application (using Class Component vs. React Redux)
+- React application example code (Component 6)
+
+**Supplemental Materials**
 - Redux: comprehensive tutorial by Dan Abramov, the creator of Redux ([Part 1](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)) ([Part 2](https://egghead.io/courses/building-react-applications-with-idiomatic-redux))
 - [Article](https://medium.com/fullstack-academy/thunks-in-redux-the-basics-85e538a3fe60) on Thunks in Redux
 - [Coding example](https://learn.co/lessons/redux-thunk-readme) using Thunks
@@ -215,17 +228,6 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 
 **Demo**
 - Final Project starter application (starter code)
-
-**Redux**
-- Redux: Manage state in React applications using Redux (*summary*)
-- Intro to Redux ([slides](https://drive.google.com/file/d/1-29VywoNhkyx80Dx6rdRACZo8PaTvSKz/view?usp=sharing))
-- Intro to Thunk Middleware ([slides](https://drive.google.com/file/d/1DtR-CR7e_NOLr434MNZ44BlniYHFXTVo/view?usp=sharing))
-- Use Redux in "Ticking Clock" React application ([react-ticking-clock-app](https://github.com/johnnylaicode/react-ticking-clock-app) using Class Component and [react-redux-ticking-clock-app ](https://github.com/johnnylaicode/react-redux-ticking-clock-app) using React Redux)
-- [React Application Examples (Component 6): Redux and Thunk](https://github.com/johnnylaicode/react-examples)
-
-**Demo**
-- Use Redux in "Ticking Clock" React application (using Class Component vs. React Redux)
-- React application example code (Component 6)
 
 **Work on the following items**
 - **Practice of React application example (Component 6)**
