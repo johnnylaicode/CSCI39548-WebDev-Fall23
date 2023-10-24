@@ -206,8 +206,8 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 - [React Application Examples (Component 6): Redux and Thunk](https://github.com/johnnylaicode/react-examples)
 
 **Demo**
-- Use Redux in "Ticking Clock" React application (using Class Component vs. React Redux)
-- React application example code (Component 6)
+- Use Redux in "Ticking Clock" React application (Class Component vs. React Redux)
+- React application example code (Component 6) using Redux and Thunk Middleware
 
 **Supplemental Materials**
 - Redux: comprehensive tutorial by Dan Abramov, the creator of Redux ([Part 1](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)) ([Part 2](https://egghead.io/courses/building-react-applications-with-idiomatic-redux))
