@@ -198,7 +198,7 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 ----------
 ## Class 8 (10/19, 10/24)
 
-**Redux**
+**Redux and Thunk Middleware**
 - Redux: Manage state in React applications using Redux (*summary*)
 - Intro to Redux ([slides](https://drive.google.com/file/d/1-29VywoNhkyx80Dx6rdRACZo8PaTvSKz/view?usp=sharing))
 - Intro to Thunk Middleware ([slides](https://drive.google.com/file/d/1DtR-CR7e_NOLr434MNZ44BlniYHFXTVo/view?usp=sharing))
