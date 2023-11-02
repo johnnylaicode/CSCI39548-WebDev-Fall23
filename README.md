@@ -226,6 +226,9 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 - **[Client starter code for Final Project](https://github.com/johnnylaicode/client-starter-code)**
 - **[Server starter code for Final Project](https://github.com/johnnylaicode/server-starter-code)**
 
+**Front-End Application (Final Project)**
+- Build front-end application ([client starter code](https://github.com/johnnylaicode/client-starter-code))
+
 **Demo**
 - Final Project starter application (starter code)
 
@@ -233,32 +236,34 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 - **Practice of React application example (Component 6)**
 - **Assignment 3 - Bank of React**
 
+**Supplemental Materials**
+- [What's a CRUD application?](https://medium.com/geekculture/whats-a-crud-app-e5a29cce03b5)
+
 ----------
 ## Class 10 (11/2, 11/7)
-**Front-End Application (Final Project)**
-- Build front-end application ([client starter code](https://github.com/johnnylaicode/client-starter-code))
+**Back-End Application (Final Project)**
+- Build back-end application ([server starter code](https://github.com/johnnylaicode/server-starter-code))
 
 **PostgreSQL and Postman**
 - [Download PostgreSQL](https://www.postgresql.org/download/)
 - [Download Postman](https://www.postman.com/downloads/)
 
-**Supplemental Materials**
-- [What's a CRUD application?](https://medium.com/geekculture/whats-a-crud-app-e5a29cce03b5)
-
-----------
-## Class 11 (11/9, 11/14)
-**RESTful API, Express, and Sequelize**
+**RESTful API and Express**
 - RESTful API ([slides](https://drive.google.com/file/d/1QLJmwRLnsc8g6Tbp12pA6MfF9WTX26GE/view?usp=share_link))
 - Intro to Express ([slides](https://drive.google.com/file/d/153YB1EgN6ielLMojMOXUqX_-ArUuG_mL/view?usp=share_link))
-- Intro to ORM and Sequelize ([slides](https://drive.google.com/file/d/1kUcZNI4Xtn3cAgfjhIW5thA-xIjEjpyT/view?usp=share_link))
-
-**Back-End Application (Final Project)**
-- Build back-end application ([server starter code](https://github.com/johnnylaicode/server-starter-code))
-- Final Project: Server-Side (Back-End) Application Starter Code (*summary*)
 
 **Demo**
 - RESTful API and test using Postman
 - Express routing feature examples ([express-routing](https://github.com/johnnylaicode/express-routing))
+
+----------
+## Class 11 (11/9, 11/14)
+***Continue:*** **Back-End Application (Final Project)**
+- Build back-end application ([server starter code](https://github.com/johnnylaicode/server-starter-code))
+- Final Project: Server-Side (Back-End) Application Starter Code (*summary*)
+
+**Sequelize**
+- Intro to ORM and Sequelize ([slides](https://drive.google.com/file/d/1kUcZNI4Xtn3cAgfjhIW5thA-xIjEjpyT/view?usp=share_link))
 
 **Supplemental Materials**
 - [Tutorial: Setting up a simple Node application with Express/Sequelize](https://www.youtube.com/watch?v=bOHysWYMZM0&ab_channel=TraversyMedia)
