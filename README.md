@@ -252,18 +252,19 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 - RESTful API ([slides](https://drive.google.com/file/d/1QLJmwRLnsc8g6Tbp12pA6MfF9WTX26GE/view?usp=share_link))
 - Intro to Express ([slides](https://drive.google.com/file/d/153YB1EgN6ielLMojMOXUqX_-ArUuG_mL/view?usp=share_link))
 
+**Sequelize**
+- Intro to ORM and Sequelize ([slides](https://drive.google.com/file/d/1kUcZNI4Xtn3cAgfjhIW5thA-xIjEjpyT/view?usp=share_link))
+
 **Demo**
 - RESTful API and test using Postman
 - Express routing feature examples ([express-routing](https://github.com/johnnylaicode/express-routing))
+- Postgres psql
 
 ----------
 ## Class 11 (11/9, 11/14)
 ***Continue:*** **Back-End Application (Final Project)**
 - Build back-end application ([server starter code](https://github.com/johnnylaicode/server-starter-code))
 - Final Project: Server-Side (Back-End) Application Starter Code (*summary*)
-
-**Sequelize**
-- Intro to ORM and Sequelize ([slides](https://drive.google.com/file/d/1kUcZNI4Xtn3cAgfjhIW5thA-xIjEjpyT/view?usp=share_link))
 
 **Supplemental Materials**
 - [Tutorial: Setting up a simple Node application with Express/Sequelize](https://www.youtube.com/watch?v=bOHysWYMZM0&ab_channel=TraversyMedia)
@@ -279,9 +280,6 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 ## Class 12 (11/16, 11/21)
 ***Continue:*** **Back-End Application (Final Project)**
 - *Continue:* Build back-end application ([server starter code](https://github.com/johnnylaicode/server-starter-code))
-
-**Demo**
-- Postgres psql
 
 **Work on Final Project - Full-Stack CRUD Application**
 
