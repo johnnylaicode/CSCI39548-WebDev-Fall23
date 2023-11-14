@@ -231,6 +231,7 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 
 **Demo**
 - Final Project starter application (starter code)
+- Run front-end application starter code
 
 **Work on the following items**
 - **Practice of React application example (Component 6)**
@@ -258,7 +259,12 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 **Demo**
 - RESTful API and test using Postman
 - Express routing feature examples ([express-routing](https://github.com/johnnylaicode/express-routing))
-- Postgres psql
+
+**Supplemental Materials**
+- [Tutorial: Setting up a simple Node application with Express/Sequelize](https://www.youtube.com/watch?v=bOHysWYMZM0&ab_channel=TraversyMedia)
+- [Relational database concepts](https://www.youtube.com/watch?v=NvrpuBAMddw)
+- [Intro to Object-Relational Mapping](https://www.youtube.com/watch?v=dHQ-I7kr_SY)
+- [Sequelize documentation](https://sequelize.org/master/)
 
 ----------
 ## Class 11 (11/9, 11/14)
@@ -266,12 +272,12 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 - Build back-end application ([server starter code](https://github.com/johnnylaicode/server-starter-code))
 - Final Project: Server-Side (Back-End) Application Starter Code (*summary*)
 
+**Demo**
+- Run back-end application starter code
+- Postgres psql
+
 **Supplemental Materials**
-- [Tutorial: Setting up a simple Node application with Express/Sequelize](https://www.youtube.com/watch?v=bOHysWYMZM0&ab_channel=TraversyMedia)
-- [Relational database concepts](https://www.youtube.com/watch?v=NvrpuBAMddw)
-- [Intro to Object-Relational Mapping](https://www.youtube.com/watch?v=dHQ-I7kr_SY)
 - [psql commands](https://www.postgresqltutorial.com/psql-commands/)
-- [Sequelize documentation](https://sequelize.org/master/)
 
 **Resources**
 - [Add an existing project to GitHub](https://docs.github.com/en/github/importing-your-projects-to-github/importing-source-code-to-github/adding-an-existing-project-to-github-using-the-command-line)
