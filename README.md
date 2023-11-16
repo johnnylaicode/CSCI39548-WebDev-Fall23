@@ -257,6 +257,7 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 - Intro to ORM and Sequelize ([slides](https://drive.google.com/file/d/1kUcZNI4Xtn3cAgfjhIW5thA-xIjEjpyT/view?usp=share_link))
 
 **Demo**
+- Run back-end application starter code
 - RESTful API and test using Postman
 - Express routing feature examples ([express-routing](https://github.com/johnnylaicode/express-routing))
 
@@ -272,10 +273,6 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 - Build back-end application ([server starter code](https://github.com/johnnylaicode/server-starter-code))
 - Final Project: Server-Side (Back-End) Application Starter Code (*summary*)
 
-**Demo**
-- Run back-end application starter code
-- Postgres psql
-
 **Supplemental Materials**
 - [psql commands](https://www.postgresqltutorial.com/psql-commands/)
 
@@ -286,6 +283,9 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 ## Class 12 (11/16, 11/21)
 ***Continue:*** **Back-End Application (Final Project)**
 - *Continue:* Build back-end application ([server starter code](https://github.com/johnnylaicode/server-starter-code))
+
+**Demo**
+- Postgres psql
 
 **Work on Final Project - Full-Stack CRUD Application**
 
