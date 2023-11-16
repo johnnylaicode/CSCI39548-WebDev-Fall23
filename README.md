@@ -273,9 +273,6 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 - Build back-end application ([server starter code](https://github.com/johnnylaicode/server-starter-code))
 - Final Project: Server-Side (Back-End) Application Starter Code (*summary*)
 
-**Supplemental Materials**
-- [psql commands](https://www.postgresqltutorial.com/psql-commands/)
-
 **Resources**
 - [Add an existing project to GitHub](https://docs.github.com/en/github/importing-your-projects-to-github/importing-source-code-to-github/adding-an-existing-project-to-github-using-the-command-line)
 
@@ -288,6 +285,9 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 - Postgres psql
 
 **Work on Final Project - Full-Stack CRUD Application**
+
+**Supplemental Materials**
+- [psql commands](https://www.postgresqltutorial.com/psql-commands/)
 
 ----------
 ## Class 13 (11/28, 11/30)
