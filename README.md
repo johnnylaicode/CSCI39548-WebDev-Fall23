@@ -278,6 +278,9 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 
 ----------
 ## Class 12 (11/16, 11/21)
+### *Reminder:* Review sample questions/answers of Course Assessment Test on Tuesday, 11/28.
+<br/>
+
 ***Continue:*** **Back-End Application (Final Project)**
 - *Continue:* Build back-end application ([server starter code](https://github.com/johnnylaicode/server-starter-code))
 - Final Project: Client-Side and Server-Side Application Routes (*summary*)
