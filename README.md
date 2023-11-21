@@ -280,6 +280,7 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 ## Class 12 (11/16, 11/21)
 ***Continue:*** **Back-End Application (Final Project)**
 - *Continue:* Build back-end application ([server starter code](https://github.com/johnnylaicode/server-starter-code))
+- Final Project: Client-Side and Server-Side Application Routes (*summary*)
 
 **Demo**
 - Postgres psql
