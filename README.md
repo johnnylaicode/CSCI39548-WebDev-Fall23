@@ -295,7 +295,7 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 <br/>
 
 **Review for Course Assessment Test (optional extra credit)**
-- Review document and example questions/answers for Course Assessment Test
+- Review document and example questions/answers for Course Assessment Test on Tuesday, 11/28.
 - *Note: The above information is available on Blackboard.*
 
 **Work on Final Project - Full-Stack CRUD Application**
