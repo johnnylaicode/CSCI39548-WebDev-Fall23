@@ -295,7 +295,9 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2023
 
 ----------
 ## Class 13 (11/28, 11/30)
-### *Reminder:* Complete Teacher Evaluation
+### *Reminder 1:* Course Assessment Test (optional extra credit) on Tuesday, 12/5.
+
+### *Reminder 2:* Complete Teacher Evaluation
 <br/>
 
 **Review for Course Assessment Test (optional extra credit)**
